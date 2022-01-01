@@ -4,11 +4,11 @@
 
 - Projeto criado para servir como resposta ao Desafio de POO do Bootcamp da DIO. Para praticar o conceito de programação orientado a objeto.
 
-- A ideia é abstrair para o Java o Jogo Blackjack (21) simplificado.
+- A ideia é abstrair para o Java o Jogo Blackjack simplificado.
 
 ## Jogo
 
-- O jogo consiste em um baralho de 52 cartas, sendo seu objetivo comprar cartas até o número 21 ou o mais próximo a isso, se um jogador estourar o número total de cartas.
+- O jogo consiste em um baralho de 52 cartas, sendo seu objetivo comprar cartas até o número 21 ou o mais próximo a isso, se um jogador estourar o número total de cartas ele automaticamente perde.
 
 - Ações;
   - Pick: Pega uma carta do baralho e coloca ela na mão.
